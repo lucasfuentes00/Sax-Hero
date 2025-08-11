@@ -3,7 +3,7 @@
 Sax Hero is a fun web-based rhythm game inspired by Guitar Hero — but with a saxophone twist!  
 Hit the right sax notes using your keyboard keys **`a` `s` `d` `f`** and jam along to custom jazz-themed songs.
 
-![Image presentation](proyecto/assets/saxheroMainPage.jpg)
+![Image presentation](proyect/assets/saxheroMainPage.jpg)
 
 ---
 
@@ -12,11 +12,10 @@ Hit the right sax notes using your keyboard keys **`a` `s` `d` `f`** and jam alo
 - Press the keys `a`, `s`, `d`, and `f` to match notes as they scroll down the screen, just like Guitar Hero.
 - Enjoy our unique saxophone-inspired theme and original song selections.
 - Load your own songs and challenge yourself with new rhythms!
-![Image presentation](proyecto/assets/saxhero.jpg)
+![Image presentation](proyect/assets/saxhero.jpg)
 
 
 ---
-
 ## 🚀 Features
 
 - Built with HTML5, CSS, and JavaScript for smooth, browser-based gameplay.
